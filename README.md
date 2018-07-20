@@ -1,1 +1,1 @@
-#! Simple KSQL UDF Examples
+# Simple KSQL UDF Examples
